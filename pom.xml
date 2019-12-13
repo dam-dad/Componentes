@@ -32,7 +32,7 @@
 				<artifactId>maven-install-plugin</artifactId>
 				<version>3.0.0-M1</version>
 				<configuration>
-					<localRepositoryPath>releases</localRepositoryPath>
+					<localRepositoryPath>repository</localRepositoryPath>
 					<file>${project.build.directory}/${project.artifactId}-${project.version}.jar</file>
 				</configuration>
 				<executions>
