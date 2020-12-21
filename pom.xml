@@ -24,10 +24,10 @@
 			<version>11.0.1</version>
 		</dependency>
 	</dependencies>
-	
+
 	<build>
 		<plugins>
-				<plugin>
+			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-install-plugin</artifactId>
 				<version>3.0.0-M1</version>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+
+
+<fx:root fx:id="view" spacing="5.0" type="HBox" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/11.0.1">
+   <children>
+      <TextField fx:id="numero1Text" prefColumnCount="4" />
+      <TextField fx:id="numero2Text" layoutX="10.0" layoutY="10.0" prefColumnCount="4" />
+      <TextField fx:id="numero3Text" layoutX="74.0" layoutY="10.0" prefColumnCount="4" />
+      <TextField fx:id="numero4Text" layoutX="138.0" layoutY="10.0" prefColumnCount="4" />
+      <TextField fx:id="numero5Text" layoutX="202.0" layoutY="10.0" prefColumnCount="4" />
+   </children>
+</fx:root>
